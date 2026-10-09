@@ -1,4 +1,4 @@
-// SAWARIYA HOSPITAL - Interactive Healthcare Scripts
+// SAWARIYA DRESSES - Interactive Fashion & Shopping Scripts
 
 document.addEventListener('DOMContentLoaded', () => {
   // 1. FAQ Accordion Interaction
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
   trackedLinks.forEach((link) => {
     link.addEventListener('click', () => {
-      console.log('Routing to Sawariya Hospital 24x7 WhatsApp Care Desk:', waUrl);
+      console.log('Routing to Sawariya Dresses WhatsApp Order Desk:', waUrl);
     });
   });
 

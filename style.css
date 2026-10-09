@@ -1,6 +1,6 @@
 /* ==========================================================================
-   SAWARIYA HOSPITAL - 24x7 MEDICAL & HEALTHCARE THEME
-   Refreshed Luxury Sky Blue & Crisp Clinical White Design System
+   SAWARIYA DRESSES - LUXURY FASHION & ETHNIC WEAR THEME
+   Refreshed Royal Navy, Gold Accents & Elegant Modern Boutique Aesthetics
    ========================================================================== */
 
 :root {
@@ -71,7 +71,7 @@ a {
 }
 
 /* ==========================================================================
-   STICKY HEADER NAV (SAWARIYA HOSPITAL - SKY BLUE)
+   STICKY HEADER NAV (SAWARIYA DRESSES)
    ========================================================================== */
 header {
   position: sticky;
@@ -421,7 +421,7 @@ nav a:hover {
 }
 
 /* ==========================================================================
-   SERVICES SECTION (6 Sky Blue Modern Hospital Cards)
+   COLLECTIONS SECTION (6 Luxury Modern Fashion Cards)
    ========================================================================== */
 .section {
   padding: 75px 0 60px;
@@ -492,28 +492,28 @@ nav a:hover {
   transform: scale(1.08);
 }
 
-.icon.emergency {
-  background: #fef2f2;
+.icon.bridal {
+  background: #fdf2f8;
 }
 
-.icon.opd {
-  background: #f0f9ff;
-}
-
-.icon.lab {
+.icon.saree {
   background: #eff6ff;
 }
 
-.icon.ambulance {
+.icon.sherwani {
   background: #fefce8;
 }
 
-.icon.pharmacy {
-  background: #e0f2fe;
+.icon.kurti {
+  background: #fff1f2;
 }
 
-.icon.hospital {
+.icon.kids {
   background: #f5f3ff;
+}
+
+.icon.tailoring {
+  background: #ecfdf5;
 }
 
 .cards h3 {
