@@ -1,4 +1,4 @@
-// SAWARIYA DRESSES - Interactive Fashion & Shopping Scripts
+// MAHARAJA CUSTOMER CARE - Interactive Fashion & Shopping Scripts
 
 document.addEventListener('DOMContentLoaded', () => {
   // 1. FAQ Accordion Interaction
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
   trackedLinks.forEach((link) => {
     link.addEventListener('click', () => {
-      console.log('Routing to Sawariya Dresses WhatsApp Order Desk:', waUrl);
+      console.log('Routing to Maharaja Customer Care Desk:', waUrl);
     });
   });
 
